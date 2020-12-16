@@ -68,7 +68,9 @@ local.properties
 # Maven
 ######################
 /log/
-/target/
+*/target/**
+**/target
+
 
 ######################
 # Gradle
@@ -139,3 +141,4 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+pet-clinic-data/target/maven-archiver/pom.properties

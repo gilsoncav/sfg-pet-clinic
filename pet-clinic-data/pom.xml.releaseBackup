@@ -55,4 +55,8 @@
             </plugin>
         </plugins>
     </build>
+
+  <scm>
+    <tag>pet-clinic-data-0.0.5</tag>
+  </scm>
 </project>
